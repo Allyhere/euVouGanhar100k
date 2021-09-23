@@ -72,3 +72,10 @@ dl {
   row-gap: 2ch;
   dd { margin-left: 0; }
 }
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-block: 2ch;
+}
