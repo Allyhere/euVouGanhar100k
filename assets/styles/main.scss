@@ -74,7 +74,8 @@ h2:not(header h2) {
 }
 
 p,
-li {
+li,
+address {
   color: var(--clr-txt);
   font-size: 1rem;
   line-height: 1.5;
